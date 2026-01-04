@@ -1,4 +1,8 @@
-# Số Đỏ - Vũ Trọng Phụng
+---
+title: Số Đỏ
+author: Vũ Trọng Phụng
+language: vi
+---
 
 # Chương 1
 
